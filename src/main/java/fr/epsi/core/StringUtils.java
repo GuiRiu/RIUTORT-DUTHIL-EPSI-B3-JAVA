@@ -10,7 +10,7 @@ public final class StringUtils {
 
 	/**
 	 * Encodes a sentence with Cesar with a specified step.
-	 *
+	 * Ligne modifiée
 	 * @param sentence the sentence to encode.
 	 * @param step     the step to use.
 	 * @return the encoded sentence.
